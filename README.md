@@ -42,3 +42,6 @@ Successfully connected a Windows 11 endpoint to Wazuh SIEM and detected a failed
 This exercise provided practical experience with endpoint monitoring and Windows security event analysis.
 
 Status: Completed
+## Screenshot – Failed Login Event
+
+![Wazuh Failed Login Event](../Screenshot%202026-11-08%20094322.png)
