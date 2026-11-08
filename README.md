@@ -44,4 +44,4 @@ This exercise provided practical experience with endpoint monitoring and Windows
 Status: Completed
 ## Screenshot – Failed Login Event
 
-![Wazuh Failed Login Event](../Screenshot%202026-11-08%20094322.png)
+![Wazuh Failed Login Event](./Screenshot%202026-11-08%20094322.png)
