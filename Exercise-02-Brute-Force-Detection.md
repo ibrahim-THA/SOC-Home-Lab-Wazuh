@@ -1,3 +1,4 @@
+
 # Exercise 02 – Brute Force Detection
 
 ## Objective
@@ -31,4 +32,4 @@ to detect repeated failed Windows login attempts.
 
 ## Evidence
 
-![Wazuh Brute Force Detection](images/brute-force-detection.png)
+<img width="1207" height="682" alt="Screenshot 2026-11-09 144409" src="https://github.com/user-attachments/assets/99a2c673-7a52-44c5-b38e-73cdea736e61" />
